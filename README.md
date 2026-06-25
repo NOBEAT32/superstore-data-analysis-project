@@ -95,6 +95,14 @@ superstore-sales-analysis/
 ## 📈 Power BI Dashboard (5 Pages)
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/db376cfe-8aa0-4ec3-89aa-f12ed931164d" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/00087357-a645-4d51-93c4-95bb72057483" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/3aa978c0-95b7-4a83-8eed-b5984f07cc89" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/12c080b7-fd26-4965-91f2-2e3b1f39b1c1" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/9aea1d63-1217-4730-b8ab-a4cd9419cdf4" />
+
+
+
+
 
 
 | Page | Content |
