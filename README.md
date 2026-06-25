@@ -94,6 +94,9 @@ superstore-sales-analysis/
 
 ## 📈 Power BI Dashboard (5 Pages)
 
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/db376cfe-8aa0-4ec3-89aa-f12ed931164d" />
+
+
 | Page | Content |
 |---|---|
 | **Page 1 — Overview** | KPI cards: Total Revenue, Profit, Orders, Avg Order Value |
