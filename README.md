@@ -168,9 +168,7 @@ Pipeline([
     ], remainder='passthrough')),
     ('model', XGBRegressor(n_estimators=300, learning_rate=0.05, max_depth=6))
 ])
-```
 
----
 
 ## 💡 Key Business Insights
 
@@ -194,42 +192,13 @@ Pipeline([
 | 🟢 Low | Set Second Class as default shipping | Improve margin % |
 | 🟢 Low | Launch Q1 promotions in January | Reduce revenue dip |
 
----
 
-## 🚀 How to Run This Project
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/superstore-sales-analysis.git
-cd superstore-sales-analysis
-```
-
-### 2. Install dependencies
-```bash
-pip install pandas numpy scipy statsmodels scikit-learn xgboost matplotlib seaborn
-```
-
-### 3. Run notebooks in order
-```bash
-jupyter notebook notebooks/01_data_cleaning.ipynb
-jupyter notebook notebooks/02_eda_statistics.ipynb
-jupyter notebook notebooks/03_predictive_modeling.ipynb
-```
-
-### 4. Run SQL queries
-Open `sql/business_analysis.sql` in pgAdmin or any PostgreSQL client and run against your loaded dataset.
-
-### 5. Open Power BI Dashboard
-Open `powerbi/superstore_dashboard.pbix` in Power BI Desktop.
-
----
 
 ## 📬 Connect with Me
 
-- **LinkedIn:** [your-linkedin-url]
-- **GitHub:** [your-github-url]
-- **Email:** [your-email]
+- **LinkedIn:** https://www.linkedin.com/in/manjeet-karakoti-b08b03322/
+- **GitHub:** https://github.com/NOBEAT32
+- **Email:** karakotimanjeet1@gmail.com
 
----
 
-*Built as part of a Data Analytics internship project | 2024*
