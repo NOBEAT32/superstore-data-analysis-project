@@ -177,6 +177,8 @@ Q4 accounts for ~35% of annual revenue
 - CV R² (5-fold) = 0.85 ± 0.06 → consistent, not overfitted
 - Top features: `discount`, `sales`, `price`
 
+<img width="1336" height="1107" alt="image" src="https://github.com/user-attachments/assets/b66da8c3-f71f-4d2a-b217-8549cbd19893" />
+
 ### Pipeline Used
 ```python
 Pipeline([
