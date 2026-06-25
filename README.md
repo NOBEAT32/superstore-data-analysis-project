@@ -206,6 +206,7 @@ Finding: Orders with >40% discount average a net loss of $40 per order.
 Impact: Company loses ~$49,000 annually from heavy discounting alone.
 
 Action: "Cap maximum discount at 20%. Require manager approval for any discount above this threshold."
+
 2. Review loss-making products
 
 Finding: Tables and Bookcases sub-categories operate at −8.5% and −3% profit margin respectively.
@@ -213,6 +214,7 @@ Finding: Tables and Bookcases sub-categories operate at −8.5% and −3% profit
 Impact: 43% of all Table orders result in a loss.
 
 Action: "Reprice Tables and Bookcases upward by 10–15%, or discontinue deep discounts on Furniture entirely."
+
 3. Focus on Technology category
 
 Finding: Technology has the highest profit margin (~25%) and top revenue contribution.
@@ -220,6 +222,7 @@ Finding: Technology has the highest profit margin (~25%) and top revenue contrib
 Impact: Copiers alone generate 37% margin with minimal discounting.
 
 Action: "Increase Technology product range and marketing spend — especially in West and East regions where demand is highest."
+
 4. Prioritize Home Office and Corporate segments
 
 Finding: Home Office segment has the best profit margin at 14%, Corporate customers spend 7% more per order than Consumer.
@@ -227,13 +230,7 @@ Finding: Home Office segment has the best profit margin at 14%, Corporate custom
 Impact: Targeting these segments yields more profit per rupee of marketing spend.
 
 Action: "Run targeted B2B campaigns for Corporate and Home Office. Offer loyalty programs to retain high-value customers."
-5. Prepare for Q4 demand, address Q1 drop
 
-Finding: November and December consistently account for 35% of annual revenue. January shows the sharpest decline.
-
-Impact: Poor Q1 inventory planning leads to missed revenue opportunities.
-
-Action: "Pre-stock high-demand products by September. Launch Q1 promotional campaigns in January to fill the demand gap."
 6. Optimize shipping mode
 
 Finding: Second Class shipping offers the best profit margin-to-speed ratio. Same Day shipping has surprisingly low margins despite premium pricing.
