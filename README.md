@@ -165,6 +165,7 @@ Q4 accounts for ~35% of annual revenue
 **Features:** `sales`, `quantity`, `discount`, `price`, `category`, `sub_category`, `region`, `segment`, `ship_mode`
 
 ### Model Comparison
+<img width="1336" height="1107" alt="image" src="https://github.com/user-attachments/assets/b66da8c3-f71f-4d2a-b217-8549cbd19893" />
 
 | Model | R² Score | RMSE | MAE |
 |---|---|---|---|
