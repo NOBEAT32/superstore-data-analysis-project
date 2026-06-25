@@ -16,9 +16,6 @@ The project covers the full analyst workflow:
 
 ---
 
-## 🗂️ Project Structure
-
-
 superstore-sales-analysis/
 │
 ├── data/
@@ -40,7 +37,6 @@ superstore-sales-analysis/
 │   └── predictive_modeling.png      # Model comparison charts
 │
 └── README.md
-
 
 ---
 
