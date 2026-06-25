@@ -138,6 +138,8 @@ Three statistical tests performed on the dataset:
 Pearson r = -0.12,  p = 0.0031  → Significant weak negative correlation
 Interpretation: Higher priced items sell in lower quantities
 ```
+<img width="527" height="435" alt="image" src="https://github.com/user-attachments/assets/2bba89e9-3539-49d3-85c8-cdc24514c844" />
+
 
 ### 2. One-Way ANOVA — Sales across Categories
 ```
