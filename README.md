@@ -197,7 +197,7 @@ Pipeline([
 
 ---
 
-## ✅ Business Recommendations
+##  Business Recommendations
 
 1. Fix the discount policy
 
