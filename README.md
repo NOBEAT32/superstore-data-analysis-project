@@ -84,7 +84,7 @@ superstore-sales-analysis/
 | 5 | Monthly trend + growth % | `LAG()`, rolling avg, `RANK()` |
 | 6 | Shipping mode efficiency | `RANK() OVER (PARTITION BY region)` |
 
-📄 See full queries → 
+📄 See full queries → business_analysis.postgresql
 
 ---
 
