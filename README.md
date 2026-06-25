@@ -231,7 +231,7 @@ Impact: Targeting these segments yields more profit per rupee of marketing spend
 
 Action: "Run targeted B2B campaigns for Corporate and Home Office. Offer loyalty programs to retain high-value customers."
 
-6. Optimize shipping mode
+5. Optimize shipping mode
 
 Finding: Second Class shipping offers the best profit margin-to-speed ratio. Same Day shipping has surprisingly low margins despite premium pricing.
 
